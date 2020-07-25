@@ -1,2 +1,0 @@
-# kattis
-Personal Kattis solutions
