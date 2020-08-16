@@ -8,6 +8,6 @@ void loop(int iter){
 }
 
 int main(){
-    printf("Hello World!\n");
+    loop();
     return 0;
 }
