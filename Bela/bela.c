@@ -1,19 +1,17 @@
 #include <stdio.h>
 
-void ans(){
-    // code here
+void bela(){
+    
 }
 
 void loop(int iter){
     int i;
     for(i=0;i < iter;i++){
-        ans();
+        bela();        
     }
 }
 
 int main(){
-    int n;
-    scanf("%d",&n);
-    loop(n);
+    loop();
     return 0;
 }

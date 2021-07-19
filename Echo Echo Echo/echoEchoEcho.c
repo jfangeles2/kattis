@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 void ans(){
-    // code here
+    char str[30];
+    scanf("%s",str);
+    printf("%s %s %s\n", str, str, str);
 }
 
 void loop(int iter){

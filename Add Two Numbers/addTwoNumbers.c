@@ -1,7 +1,10 @@
 #include <stdio.h>
+#include <stdlib.h>
 
 void ans(){
-    // code here
+    int a, b;
+    scanf("%d %d\n", &a, &b);
+    printf("%d\n", a+b);
 }
 
 void loop(int iter){
